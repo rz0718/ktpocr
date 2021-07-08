@@ -7,4 +7,4 @@ Single Image Test
 
 
 Batch Test
-```python batch_test "filename"```
+```python batch_test```
